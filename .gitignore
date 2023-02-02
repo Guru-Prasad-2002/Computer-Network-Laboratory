@@ -1,0 +1,29 @@
+# Eclipse-specific files and directories
+.metadata/
+bin/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# System-generated files
+.DS_Store
+Thumbs.db
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
