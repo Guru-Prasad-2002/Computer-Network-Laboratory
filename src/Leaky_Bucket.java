@@ -5,7 +5,7 @@ public class Leaky_Bucket {
 		Scanner sc=new Scanner(System.in);
 		int buffer,inp_rate,out_rate,overflow,cur_storage=0,req_storage,option=0;
 		System.out.println("**LEAKY BUCKET ALGORITHM**");
-		System.out.println("ENter the buffer size");
+		System.out.println("Enter the buffer size");
 		buffer=sc.nextInt();
 		System.out.println("Enter the constanct output rate");
 		out_rate=sc.nextInt();
