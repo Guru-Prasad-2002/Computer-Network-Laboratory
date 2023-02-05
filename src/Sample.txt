@@ -1,3 +1,0 @@
-Line1 Hello
-Line2 World
-Line3 Final Line
